@@ -1,0 +1,9 @@
+title: Theory Seminar @ LIACS
+# email:
+description: >- # this means to ignore newlines until "baseurl:"
+  This websites contains the announcements and information
+  for the theory seminar at the Leiden Institute of Advanced Computer Science
+  (LIACS).
+
+# Build settings
+theme: jekyll-theme-cayman

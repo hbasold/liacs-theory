@@ -12,7 +12,7 @@ model a probabilistic process that may run indefinitely. Such processes
 have been described in non-probabilistic programming successfully by
 using coinductive types and coiteration. Vákár et al. recently
 introduced semantics for a higher-order probabilistic programming
-language with full recursion in types and programs based quasi-Borel
+language with full recursion in types and programs based on quasi-Borel
 spaces. Full recursion allows the introduction of coinductive types,
 but this comes at the price of losing termination and productivity.
 

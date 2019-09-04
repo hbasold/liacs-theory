@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Beginning of Autumn Semester"
-date:   2019-09-04 15:00:00 +0200
+date:   2019-09-04 16:00
 categories: seminar
 ---
 

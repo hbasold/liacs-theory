@@ -1,12 +1,9 @@
 ---
 layout: post
-title:  "Seminar by Henning Basold: Modelling Coinductive and Higher-Order Stochastic Systems"
+title:  "Henning Basold: Modelling Coinductive and Higher-Order Stochastic Systems"
 date:   2019-09-09 14:00:00 +0200
 categories: seminar
 ---
-
-Modelling Coinductive and Higher-Order Stochastic Systems
-=======================================================
 
 In stochastic modelling, as it appears in artificial intelligence,
 biology or physics, one often encounters the question of how to

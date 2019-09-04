@@ -3,6 +3,7 @@ layout: post
 title:  "Henning Basold: Modelling Coinductive and Higher-Order Stochastic Systems"
 date:   2019-09-09 14:00:00 +0200
 categories: seminar
+room: "413 @ Snellius"
 ---
 
 In stochastic modelling, as it appears in artificial intelligence,

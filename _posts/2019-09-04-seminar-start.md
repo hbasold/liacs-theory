@@ -27,6 +27,6 @@ end of this year.
 * 16 Dec, 402
 
 We wish you all a good start into the new semester and hope to see you at
-the seminar.
+the seminar!
 
 Alfons and Henning

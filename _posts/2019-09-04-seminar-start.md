@@ -19,7 +19,7 @@ end of this year.
 
 * 9 Sept, 413
 * ~~23 Sept, 401~~
-* 20 Sept, 176
+* 30 Sept, 176
 * 07 Oct, 401
 * 21 Oct, 401
 * 04 Nov, 402

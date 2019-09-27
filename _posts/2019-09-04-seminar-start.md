@@ -18,7 +18,8 @@ Here is a list of dates and rooms, all in the Snellius building, until the
 end of this year.
 
 * 9 Sept, 413
-* 23 Sept, 401
+* ~~23 Sept, 401~~
+* 20 Sept, 176
 * 07 Oct, 401
 * 21 Oct, 401
 * 04 Nov, 402

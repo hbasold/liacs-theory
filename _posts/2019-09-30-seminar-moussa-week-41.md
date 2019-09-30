@@ -7,8 +7,8 @@ room: "Snellius 401"
 ---
 
 Hybrid quantum-classical algorithms are considered as near-term applications of
-hardware in the NISQ (Noisy Intermediate-Scale Quantum,
-<https://arxiv.org/abs/1801.00862>) era.
+hardware in the NISQ era
+([Noisy Intermediate-Scale Quantum](https://arxiv.org/abs/1801.00862)).
 One goal of quantum computing is to design algorithms with possible advantages
 over best classical methods.
 The Quantum Approximate Optimization algorithm was designed in this context for

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Charles Moussa: Quantum Approximate Optimization Algorithm : possible advantages?"
-date:   2019-09-07 14:00
+date:   2019-10-07 14:00
 categories: seminar
 room: "Snellius 401"
 ---

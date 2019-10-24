@@ -29,8 +29,8 @@ end of this year.
 * 30 Sept, 176
 * 07 Oct, 401
 * 14 Oct, 176 (Café)
-* 21 Oct, 401
-* 28 Oct, 176 (Café)
+* ~~21 Oct, 401~~
+* 28 Oct, 176
 * 04 Nov, 402
 * 11 Nov, 176 (Café)
 * 18 Nov, 402

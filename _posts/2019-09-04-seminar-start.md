@@ -31,12 +31,12 @@ end of this year.
 * 14 Oct, 176 (Café)
 * ~~21 Oct, 401~~
 * 28 Oct, 176
-* 04 Nov, 402
-* 11 Nov, 176 (Café)
-* 18 Nov, 402
-* 25 Nov, 176 (Café)
-* 02 Dec, 402
-* 09 Dec, 176 (Café)
+* 04 Nov, 402 (Café)
+* 11 Nov, 176
+* 18 Nov, 402 (Café)
+* 25 Nov, 176
+* 02 Dec, 402 (Café)
+* 09 Dec, 176
 * 16 Dec, 402
 
 We wish you all a good start into the new semester and hope to see you at

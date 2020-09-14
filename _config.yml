@@ -3,6 +3,8 @@ title: Theory Seminar @ LIACS
 description: >- # this means to ignore newlines until "baseurl:"
   Announcements and information about the theory seminar at LIACS
 
+baseurl: "/liacs-theory/" # the subpath of your site, e.g. /blog/
+
 # Build settings
 theme: jekyll-theme-cayman
 permalink: /:categories/:year/:month/:title:output_ext

@@ -20,7 +20,7 @@ However, we will provide an organisational structure to help with the tutoring.
 
 The organisational structure for the tutoring in one picture:
 
-![Organisation of tutoring for senior bachelor students at LIACS]({% link img/tutoring-organisation.png %} "Organisation of tutoring")
+![Organisation of tutoring for senior bachelor students at LIACS]({{ "/img/tutoring-organisation.png" | relative_url }} "Organisation of tutoring")
 
 The two basic organisational units are **tutoring groups** with one **delegate** each,
 and the **tutoring team** with me (Henning Basold) as the **tutoring organiser** as member.
@@ -74,4 +74,4 @@ Once you know this, please proceed as follows.
 
 ## Link to this site
 
-![<a href="https://liacs.leidenuniv.nl/~basoldh/education/liacs-bsc-tutoring.html">Link to this site</a>]({% link img/tutoring-website-qr.png %} "QR Code with link to this website")
+![<a href="https://liacs.leidenuniv.nl/~basoldh/education/liacs-bsc-tutoring.html">Link to this site</a>]({{ "/img/tutoring-website-qr.png" | relative_url }} "QR Code with link to this website")

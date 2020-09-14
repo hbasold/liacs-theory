@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Tutoring for LIACS Senior Bachelor Students
 ---
 
